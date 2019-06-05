@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TPCoursIHM2Activity!</string>
+    <string name="app_name">TPCoursIHM2</string>
+    <string name="button">button</string>
+    <string name="chocolate">chocolate</string>
+    <string name="hug">hug</string>
+    <string name="santaclaus">santaclaus</string>
+    <string name="aButton">Un bouton</string>
+    <string name="aCheckBox">Une CheckBox</string>
+    <string name="aRadioGroup">Un RadioGroup de RadioButtons</string>
+    <string name="aImageView">Une ImageView</string>
+    <string name="aImageButton">Un ImageButton</string>
+    <string name="aSlider">Un SeekBar</string>
+    <string name="aProgressbar">Une ProgressBar</string>
+    <string name="aEditText">Un EditText</string>
+
+</resources>
